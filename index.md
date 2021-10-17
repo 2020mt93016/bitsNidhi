@@ -27,6 +27,5 @@ div {text-align: center;}
             </main>
           </div>
       </div>
-      <script src="/src.9c07a950.js"></script>
    </body>
 </html>
