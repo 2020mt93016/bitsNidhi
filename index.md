@@ -1,5 +1,9 @@
 <html lang="en">
    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <meta name="Description" content="Profile">
       <title>Nidhi Tiwari | Senior Software Engineer</title>
       <style>
 h2 {text-align: center;}
@@ -8,8 +12,9 @@ div {text-align: center;}
 </style>
    </head>
    <body>
-         <div>
- 
+      <div id="app">
+         <div class="sc-VigVT ekhInz">
+            <main class="sc-gqjmRU eJqKYP">
                <img src="image.jpg" alt="Nidhi Image" width="900" height="300">
                <h1 style="color:DodgerBlue;">Nidhi Tiwari</h1>
                <p>Noida, India</p>
@@ -18,9 +23,9 @@ div {text-align: center;}
                   <h2 style="color:DodgerBlue;"><b>Achievement</b></h2>
                   <p>•	All over India 4th position in Smart India Hackathon.</p>
                   <p>•	Acquired both Advance and Intermediate level SW certificate Test conducted at Samsung.</p>
-                  <p>•	2nd position in volleyball, Zonal level sports fest.</p></div>
-           
-         
+                  <p>•	2nd position in volleyball, Zonal level sports fest.</p>
+            </main>
+          </div>
       </div>
    </body>
 </html>
