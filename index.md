@@ -4,12 +4,6 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
       <meta name="Description" content="Profile">
-      <title>Nidhi Tiwari | Senior Software Engineer</title>
-      <style>
-h2 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
    </head>
    <body>
       <div id="app">
